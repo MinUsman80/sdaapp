@@ -5,4 +5,13 @@ plugins {
     alias(libs.plugins.kotlin.compose) apply false
 
     id("com.google.gms.google-services") version "4.4.2" apply false
+id("org.sonarqube") version "6.0.1.5171"
+} 
+
+sonar {
+  properties {
+    property("sonar.projectKey", "MinUsman80_sdaapp")
+    property("sonar.organization", "minusman80")
+    property("sonar.host.url", "https://sonarcloud.io")
+  }
 }
