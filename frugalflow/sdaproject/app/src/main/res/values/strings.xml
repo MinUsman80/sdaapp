@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">frugalflow</string>
+    <string name="image_description" translatable="false">string</string>
+    <string name="budget_tracking_background" translatable="false">Budget tracking background</string>
+    <string name="menu_button" translatable="false">Menu button</string>
+    <string name="notification_button" translatable="false">Notification button</string>
+    <string name="add_transaction_button" translatable="false">Add transaction button</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="cash" translatable="false">Cash</string>
+    <string name="cash_balance_placeholder" translatable="false">PKR 50,000.00</string>
+    <string name="username_placeholder" translatable="false">John Doe</string>
+    <string name="email_placeholder" translatable="false">john.doe@example.com</string>
+
+    <!-- Navigation Drawer Items -->
+    <string name="nav_home" translatable="false">Home</string>
+    <string name="nav_settings" translatable="false">Settings</string>
+    <string name="nav_planning" translatable="false">Planning</string>
+    <string name="nav_forecasting" translatable="false">Forecasting</string>
+    <string name="nav_financial_report" translatable="false">Financial Report</string>
+    <string name="nav_networth" translatable="false">Networth</string>
+
+</resources>
